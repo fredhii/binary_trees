@@ -10,7 +10,7 @@
   <h3 align="center">Binary Trees</h3>
 
   <p align="center">
-        <em>SQL Basic</em>
+        <em>--</em>
     <br /><br />
     <a href="https://github.com/fredhii/holbertonschool-higher_level_programming/issues">Report Bug</a>
     ·
